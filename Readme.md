@@ -44,3 +44,5 @@ brew install xctool
 ```
 
 Travis is still using an older version of xctool which works fine with [Kiwi](https://github.com/allending/Kiwi) and [Specta](https://github.com/specta/specta).
+
+ss
